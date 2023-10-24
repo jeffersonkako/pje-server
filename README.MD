@@ -29,7 +29,9 @@ npm install
 npm start
 ``````
 
-O servidor estará rodando em \`http://localhost:3000\`.
+O servidor estará rodando em \`http://localhost:3000/pje-server\`.
+
+O swagger em \`http://localhost:3000/api-docs\`.
 
 ### Usando Docker (Opcional)
 
