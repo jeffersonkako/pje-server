@@ -1,0 +1,19 @@
+{
+  "pje-server": {
+    "NProcesso": "9999999-99.9999.9.99.9999",
+    "OrgaoJulgador": "Tribunal de Justiça Estadual",
+    "ValorDaCausa": "R$ 50.000,00",
+    "NivelDeSigilo": "Público",
+    "Prioridade": "Normal",
+    "Parte": {
+      "Polo": ["Ativo", "Passivo", "Testemunha"],
+      "Nome": "João Silva",
+      "Documento": "123.456.789-00",
+      "Email": "joao.silva@email.com",
+      "Endereco": {
+        "NumeroDaCasa": "100",
+        "CEP": "12345-678"
+      }
+    }
+  }
+}
