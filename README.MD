@@ -12,7 +12,7 @@ PJE Server é uma API simples que fornece dados fakes do PJE. Foi construído co
 1. Clone o repositório:
 
 \`\`\`
-git clone [URL_DO_SEU_REPOSITÓRIO]
+git clone https://github.com/jeffersonkako/pje-server.git
 \`\`\`
 
 2. Entre na pasta do projeto e instale as dependências:
